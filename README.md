@@ -9,4 +9,4 @@ the project about bike destination in three cities and it gives information abou
 chicago.csv, new_york_city.csv and washington.csv
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity, misk academy and Mutlaq 
