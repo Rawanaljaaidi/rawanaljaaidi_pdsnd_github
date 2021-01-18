@@ -4,8 +4,7 @@
 Replace the Project Title
 us_bikeshare.py
 ### Description
-Describe what your project is about and what it does
-
+the project about bike destination in three cities and it gives information about these distination 
 ### Files used
 Include the files used
 
